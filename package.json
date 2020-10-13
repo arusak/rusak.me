@@ -1,10 +1,14 @@
 {
   "name": "eleventy-project",
   "version": "1.0.0",
-  "main": "index.md",
+  "main": "src/index.md",
   "author": "arusak",
   "license": "MIT",
   "dependencies": {
     "@11ty/eleventy": "^0.11.0"
+  },
+  "scripts": {
+    "start": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
   }
 }

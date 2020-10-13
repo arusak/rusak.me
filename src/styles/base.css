@@ -1,0 +1,15 @@
+html, body {
+	margin: 0;
+	height: 100%;
+	padding: 0;
+}
+
+.page__body {
+	font-family: sans-serif;
+	line-height: 1.4;
+}
+
+.page__main {
+	background: url(/images/fog.jpg);
+	background-size: cover;
+}
