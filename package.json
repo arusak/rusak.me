@@ -1,0 +1,10 @@
+{
+  "name": "eleventy-project",
+  "version": "1.0.0",
+  "main": "index.md",
+  "author": "arusak",
+  "license": "MIT",
+  "dependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
